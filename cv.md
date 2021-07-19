@@ -2,9 +2,9 @@
 
 ### Contacts
 
->**Telegram:** [@randmaru](http://t.me/randmaru) <br>
-**Email:** git.randmaru@ya.ru <br>
-**Phone:** [+7 (911) 638-06-24](tel:+79116380624)
+> **Telegram:** [@randmaru](http://t.me/randmaru) <br>
+> **Email:** git.randmaru@ya.ru <br>
+> **Phone:** [+7 (911) 638-06-24](tel:+79116380624)
 
 ## Summary
 
@@ -21,10 +21,6 @@ I always approach any task responsibly and thoroughly. I am looking for a soluti
 **Libraries**: Bootstrap, Vuetify <br>
 **Programming tools**: Git, VS Code, phpStorm, Docker(Basics), Postman(Basics) <br>
 **Design tools**: Figma, Gimp, Inkscape
-
-## Examples of my code
-
-<!-- Примеры кода -->
 
 ## Work experience
 
