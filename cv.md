@@ -24,7 +24,7 @@ I always approach any task responsibly and thoroughly. I am looking for a soluti
 
 ## Work experience
 
-2020 - Current <br>
+Aug 2020 - Current <br>
 **Junior PHP Developer** <br>
 Web-studio [Macropod](http://macropod.ru), Veliky Novgorod
 
