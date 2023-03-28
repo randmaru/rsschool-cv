@@ -39,7 +39,7 @@ the search is not successful, I do not hesitate to seek advice from more experie
 
 > Aug 2021 - Currently <br>
 > **Junior Front-end Developer** <br>
-> Software company - Antares Software Group, Veliky Novgorod
+> Software company - [Antares Software Group](http://antares-software.ru), Veliky Novgorod
 
 > Aug 2020 - Jul 2021 <br>
 > **Trainee PHP Developer** <br>
