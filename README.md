@@ -1,3 +1,3 @@
-# CV#1. Markdown & Git
+# CV#2. HTML, CSS & Git Basics
 
-https://randmaru.github.io/rsschool-cv/cv
+https://randmaru.github.io/rsschool-cv

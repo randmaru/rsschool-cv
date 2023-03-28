@@ -1,0 +1,21 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: monospace;
+    margin: 0;
+    color: #aaaac8;
+    background-color: #111114;
+}
+
+header, section {
+    max-width: 768px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+h1, h2, h3, a {
+    margin: 0;
+    color: #FFF;
+}
